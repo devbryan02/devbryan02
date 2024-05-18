@@ -23,8 +23,9 @@
 ```java
 import lombok.Builder;
 import lombok.extern.slf4j.Slf4j;
-@Builder
+
 @Slf4j
+@Builder
 class Developer() {
     private String name;
     private String lastName;
