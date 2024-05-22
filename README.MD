@@ -20,24 +20,28 @@
 
 ```java
 import lombok.Builder;
+import lombok.ToString;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @Builder
-class Developer() {
-    private String name;
-    private String lastName;
-    private String location;
-    private String web;
-    
-    public static void main(String[] args) {
-        Developer dev = Developer.builder()
-                .name("Bryan")
-                .lastName("Cárdenas")
-                .location("AYACUCHO, PERÚ")
-                .web("https://brayandev.vercel.app/")
-                .build();
-        log.info(dev);
-    }
+@ToString
+public class Developer {
+
+  private String name;
+  private String lastName;
+  private String location;
+  private String web;
+
+  public static void main(String[] args) {
+    Developer dev = Developer
+      .builder()
+      .name("Bryan")
+      .lastName("Cárdenas")
+      .location("AYACUCHO, PERÚ")
+      .web("https://brayandev.vercel.app/")
+      .build();
+    log.info(dev.toString());
+  }
 }
 ```
