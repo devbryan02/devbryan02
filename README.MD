@@ -8,8 +8,6 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828" alt="html">
-<img src="https://img.shields.io/badge/-CSS-264DE4?style=for-the-badge&logo=css3&logoColor=264DE4&labelColor=282828" alt="css">
 <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=F89820&labelColor=282828" alt="java">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=282828" alt="spring">
 <img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=282828" alt="astro">
