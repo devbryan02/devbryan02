@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=F89820&labelColor=282828" alt="java">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=282828" alt="spring">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828" alt="mysql">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=282828" alt="tailwindcss">
 <img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=282828" alt="astro">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=282828" alt="tailwindcss">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282828" alt="git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282828" alt="github">
 </div>
