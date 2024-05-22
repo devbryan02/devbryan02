@@ -35,7 +35,7 @@ class Developer() {
                 .name("Bryan")
                 .lastName("Cárdenas")
                 .location("AYACUCHO, PERÚ")
-                .web("https://portafolio-dev-rho.vercel.app/")
+                .web("https://brayandev.vercel.app/")
                 .build();
         log.info(dev);
     }
