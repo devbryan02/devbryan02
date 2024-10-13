@@ -2,7 +2,7 @@
 <b>Desarrollador de Software</b>
 </h1>
 
-¡Hola! 👋 Soy un estudiante apasionado por el desarrollo de software. Actualmente, curso el 6to ciclo de Ingeniería de Sistemas 💻 y me enfoco en el backend y frontend. Siempre estoy buscando aprender y mejorar mis habilidades de programación 🚀
+¡Hola! 👋 Soy un estudiante apasionado por el desarrollo de software. Actualmente, curso el 7to ciclo de Ingeniería de Sistemas 💻 y me enfoco en el backend con Java Spring. Siempre estoy buscando aprender y mejorar mis habilidades de programación 🚀
 
 <br>
 
