@@ -1,13 +1,8 @@
-# <span style="color:green;">Desarrollador de Software</span>
-
-```markdown
+# Desarrollador de Software
 
 ¡Hola! 👋 Soy un estudiante apasionado por el desarrollo de software. 
 Actualmente, curso el 7to ciclo de Ingeniería de Sistemas 💻 y me enfoco en el backend con Java Spring. 
 Siempre estoy buscando aprender y mejorar mis habilidades de programación 🚀
-```
-
-
 
 ## Tecnologías
 
