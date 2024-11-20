@@ -32,8 +32,7 @@ public class Developer {
   private String web;
 
   public static void main(String[] args) {
-    Developer dev = Developer
-      .builder()
+    Developer dev = Developer.builder()
       .name("Bryan")
       .lastName("Cárdenas")
       .location("AYACUCHO, PERÚ")
