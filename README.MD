@@ -1,4 +1,4 @@
-![Banner](https://medium.com/techwasti/how-to-customize-banner-for-spring-boot-application-590d01299a49)
+![Banner](https://miro.medium.com/1*t2-FA2PGbzaT-byEv_wPxg.png)
 # Brayan Cárdenas Muñoz
 **Java Backend Developer | Analista Programador Junior**  
 Ayacucho, Perú
