@@ -1,4 +1,4 @@
-![Banner](https://www.javacodegeeks.com/wp-content/uploads/2020/05/spring.png)
+![Banner](https://medium.com/techwasti/how-to-customize-banner-for-spring-boot-application-590d01299a49)
 # Brayan Cárdenas Muñoz
 **Java Backend Developer | Analista Programador Junior**  
 Ayacucho, Perú
