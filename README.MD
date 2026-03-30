@@ -8,7 +8,7 @@ Desarrollo APIs REST con **Java + Spring Boot/WebFlux**, aplicando **Arquitectur
 - **Sistema de Gestión de Mascotas (Producción)** — Spring WebFlux, R2DBC, PostgreSQL, JWT, Docker, Flyway, Railway  
   https://github.com/devbryan02/veterinaria-app-backend
 - **Hotel SaaS (Multi-Tenant)** — API REST, arquitectura hexagonal, testing con JUnit/Mockito  
-  https://github.com/devbryan02/hotel-saas
+  https://github.com/devbryan02/hotel-saas-back
 - **Generador de Horarios Académicos** — OptaPlanner + Spring Boot, frontend React/TypeScript  
   https://github.com/devbryan02/asignacion-de-horario
 
