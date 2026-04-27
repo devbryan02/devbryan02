@@ -17,7 +17,7 @@
 
 ## Proyectos destacados
 
-### [Hotel SaaS — API Multi-Tenant](https://github.com/devbrayan02/hotel-saas-back)
+### [Hotel SaaS — API Multi-Tenant](https://github.com/devbryan02/hotel-saas-back)
 > Backend completo para gestión hotelera con soporte multi-tenant orientado al mercado de Ayacucho.
 
 **Stack:** Java 21 · Spring Boot 4 · PostgreSQL + JPA · Flyway · JWT (claims tenantId) · RBAC · Docker Compose · Prometheus · Grafana · Bucket4j
@@ -29,7 +29,7 @@
 
 ---
 
-### [Veterinaria App — API Reactiva en Producción](https://github.com/devbrayan02/veterinaria-app-backend)
+### [Veterinaria App — API Reactiva en Producción](https://github.com/devbryan02/veterinaria-app-backend)
 > API REST reactiva para control sanitario de mascotas de la Municipalidad A.A. Cáceres Dorregaray, Ayacucho.
 
 **Stack:** Java 17 · Spring WebFlux · R2DBC · PostgreSQL · JWT · AOP · Apache POI · Flyway · Docker · Railway
@@ -41,7 +41,7 @@
 
 ---
 
-### [Generador de Horarios Académicos](https://github.com/devbrayan02/asignacion-de-horario)
+### [Generador de Horarios Académicos](https://github.com/devbryan02/asignacion-de-horario)
 > Sistema de asignación inteligente de horarios usando OptaPlanner con restricciones duras y blandas.
 
 **Stack:** Java 17 · Spring Boot 3 · OptaPlanner 9.44 · Spring Data JPA · SQL Server · Clean Architecture
@@ -53,7 +53,7 @@
 
 ---
 
-### [Machine Learning — Análisis de Ventas](https://github.com/devbrayan02/machine-learing-python)
+### [Machine Learning — Análisis de Ventas](https://github.com/devbryan02/machine-learing-python)
 > Pipeline completo de Data Science: desde limpieza de datos hasta modelo predictivo de entregas.
 
 **Stack:** Python · Pandas · NumPy · scikit-learn · SQLAlchemy · SQLite · Matplotlib · Seaborn · joblib
@@ -65,7 +65,7 @@
 
 ---
 
-### [Pipeline E-commerce con OOP](https://github.com/devbrayan02/pandas-y-numpy-en-python)
+### [Pipeline E-commerce con OOP](https://github.com/devbryan02/pandas-y-numpy-en-python)
 > Pipeline de análisis de datos con arquitectura orientada a objetos y principio SRP.
 
 **Stack:** Python · Pandas · NumPy · Power BI · OOP · SRP
