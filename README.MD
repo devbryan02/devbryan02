@@ -4,8 +4,6 @@
 
 **Java Backend Developer · Ayacucho, Perú 🇵🇪**
 
-*Construyo APIs que escalan — con arquitectura limpia, seguridad robusta y código que habla por sí solo.*
-
 [![GitHub](https://img.shields.io/badge/GitHub-devbryan02-181717?style=flat-square&logo=github)](https://github.com/devbryan02)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)]()
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
@@ -51,30 +49,6 @@
 - Solver configurado con límite de 30s, heurística inicial y búsqueda local
 - Endpoints para generar horarios, consultar por período y analizar Hard/Soft score
 
----
-
-### [Machine Learning — Análisis de Ventas](https://github.com/devbryan02/machine-learing-python)
-> Pipeline completo de Data Science: desde limpieza de datos hasta modelo predictivo de entregas.
-
-**Stack:** Python · Pandas · NumPy · scikit-learn · SQLAlchemy · SQLite · Matplotlib · Seaborn · joblib
-
-- ETL completo: imputación de nulos, persistencia en SQLite con SQLAlchemy ORM
-- EDA con visualizaciones: distribución, top vendedores, ventas por canal y temporalidad
-- `RandomForestClassifier` con 72.9% accuracy para predecir entregas vs cancelaciones
-- Feature engineering, Label Encoding y exportación del modelo entrenado con joblib
-
----
-
-### [Pipeline E-commerce con OOP](https://github.com/devbryan02/pandas-y-numpy-en-python)
-> Pipeline de análisis de datos con arquitectura orientada a objetos y principio SRP.
-
-**Stack:** Python · Pandas · NumPy · Power BI · OOP · SRP
-
-- Servicios especializados: carga, tendencias MoM, KPIs por categoría y exportación
-- Resultados exportados en `.csv` y `.xlsx` optimizados para Power BI
-
----
-
 ## Stack principal
 
 ```
@@ -109,7 +83,5 @@ public class DeveloperStatus {
     }
 }
 ```
-
-*Si tu equipo necesita un backend developer que entiende arquitectura, seguridad y despliegue — hablemos.*
 
 </div>
