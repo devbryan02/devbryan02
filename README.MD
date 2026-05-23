@@ -66,9 +66,8 @@ Data           │ Python · Pandas · NumPy · scikit-learn · Power BI
 
 ## Sobre mí
 
-- 🎓 Estudiante de último ciclo de Ingeniería de Sistemas — La Pontificia, Ayacucho
+- 🎓 Egresado en Ingeniería de Sistemas — La Pontificia, Ayacucho
 - 🏛️ Practicante en la Municipalidad Provincial de Huamanga
-- 🌎 Buscando mi primer rol formal como **Junior Backend Developer** — remoto o presencial
 - 📬 Abierto a oportunidades en Perú e internacionales
 
 ---
