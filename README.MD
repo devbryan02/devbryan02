@@ -67,7 +67,7 @@ Data           │ Python · Pandas · NumPy · scikit-learn · Power BI
 ## Sobre mí
 
 - 🎓 Egresado en Ingeniería de Sistemas — La Pontificia, Ayacucho
-- 🏛️ Practicante en la Municipalidad AACD
+- 🏛️ Prácticas backend desarrollados en la Municipalidad AACD
 - 📬 Abierto a oportunidades en Perú e internacionales
 
 ---
