@@ -2,7 +2,7 @@
 
 # `> Brayan Cárdenas Muñoz`
 
-**Java Backend Developer · Ayacucho, Perú 🇵🇪**
+**Java Backend Junior Developer · Ayacucho, Perú 🇵🇪**
 
 [![GitHub](https://img.shields.io/badge/GitHub-devbryan02-181717?style=flat-square&logo=github)](https://github.com/devbryan02)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)]()
